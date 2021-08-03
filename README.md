@@ -22,8 +22,7 @@
 1) To follow all the instructions given on how to build the exact replica of the landpage that was I chose to do.
 2)The landing page built should look exactly the same as the one in  design folder
 
-### I created the replica the the following website landpage
-![Design](design\desktop-preview.jpg)
+
 
 
 ### THE LIVE LINK OF THIS WEBSITE IS 
